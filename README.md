@@ -1,4 +1,4 @@
-# pixelated-tianscar-memes
+# memes
 Personal memes, made with GIMP.
 
 ## Resources
